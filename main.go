@@ -1,7 +1,8 @@
-package ditzyoracle
+package main
 
 import "fmt"
 
+
 func main(){
-	fmt.Println("Today you will face incongruities with your local rocks")
+	fmt.Println("Hello from main, lets get started")
 }
